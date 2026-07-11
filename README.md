@@ -103,5 +103,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
