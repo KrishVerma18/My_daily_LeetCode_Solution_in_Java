@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
@@ -80,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -163,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -189,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
