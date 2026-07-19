@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0093-restore-ip-addresses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
 | [0647-palindromic-substrings](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0647-palindromic-substrings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Recursion
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
