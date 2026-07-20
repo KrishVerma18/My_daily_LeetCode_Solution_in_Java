@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0636-exclusive-time-of-functions](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1260-shift-2d-grid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0262-trips-and-users](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0262-trips-and-users) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
