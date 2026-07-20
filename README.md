@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0178-rank-scores](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0180-consecutive-numbers) |
 | [0262-trips-and-users](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0262-trips-and-users) |
+| [0585-investments-in-2016](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0585-investments-in-2016) |
 ## Matrix
 |  |
 | ------- |
