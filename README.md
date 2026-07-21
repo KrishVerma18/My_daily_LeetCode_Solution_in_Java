@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
+| [0403-frog-jump](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0403-frog-jump) |
 | [0636-exclusive-time-of-functions](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0120-triangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0403-frog-jump](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0403-frog-jump) |
 | [0647-palindromic-substrings](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0647-palindromic-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
