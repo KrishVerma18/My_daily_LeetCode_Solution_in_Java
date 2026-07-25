@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1260-shift-2d-grid) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Database
 |  |
 | ------- |
