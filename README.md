@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0093-restore-ip-addresses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
+| [0420-strong-password-checker](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0420-strong-password-checker) |
 | [0482-license-key-formatting](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0647-palindromic-substrings) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0420-strong-password-checker](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0420-strong-password-checker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0420-strong-password-checker](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0420-strong-password-checker) |
 | [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Database
