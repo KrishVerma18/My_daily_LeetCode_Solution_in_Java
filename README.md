@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0093-restore-ip-addresses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
+| [0482-license-key-formatting](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
