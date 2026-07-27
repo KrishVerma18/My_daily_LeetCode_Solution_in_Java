@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0093-restore-ip-addresses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
 | [0420-strong-password-checker](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0420-strong-password-checker) |
+| [0459-repeated-substring-pattern](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0647-palindromic-substrings) |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3501-maximize-active-section-with-trade-ii) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
