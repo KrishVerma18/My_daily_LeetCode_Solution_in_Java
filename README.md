@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1260-shift-2d-grid) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0403-frog-jump](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -311,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
