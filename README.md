@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0831-masking-personal-information) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2073-time-needed-to-buy-tickets) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
