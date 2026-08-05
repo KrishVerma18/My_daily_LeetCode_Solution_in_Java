@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3310-remove-methods-from-project) |
 ## Tree
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0112-path-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0112-path-sum) |
 | [2685-count-the-number-of-complete-components](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
