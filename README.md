@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2073-time-needed-to-buy-tickets) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
