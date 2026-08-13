@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2073-time-needed-to-buy-tickets) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0831-masking-personal-information](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0831-masking-personal-information) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String Matching
 |  |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
