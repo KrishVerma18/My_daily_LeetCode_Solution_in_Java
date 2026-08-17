@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0647-palindromic-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
