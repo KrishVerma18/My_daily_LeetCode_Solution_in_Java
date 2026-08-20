@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1260-shift-2d-grid) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1386-cinema-seat-allocation](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
+| [1386-cinema-seat-allocation](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0420-strong-password-checker](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0420-strong-password-checker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
