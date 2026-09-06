@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0322-coin-change) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0093-restore-ip-addresses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
 | [0420-strong-password-checker](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0420-strong-password-checker) |
 | [0459-repeated-substring-pattern](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0459-repeated-substring-pattern) |
