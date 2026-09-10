@@ -305,16 +305,19 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
