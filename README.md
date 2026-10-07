@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0093-restore-ip-addresses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0301-remove-invalid-parentheses) |
 | [0420-strong-password-checker](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0420-strong-password-checker) |
 | [0459-repeated-substring-pattern](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0482-license-key-formatting) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0112-path-sum](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2685-count-the-number-of-complete-components) |
