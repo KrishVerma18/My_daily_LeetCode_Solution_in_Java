@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0403-frog-jump) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0636-exclusive-time-of-functions) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0836-rectangle-overlap) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
