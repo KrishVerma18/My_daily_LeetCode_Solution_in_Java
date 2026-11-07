@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2073-time-needed-to-buy-tickets) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
